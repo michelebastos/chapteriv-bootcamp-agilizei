@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Michele",
+        "lastName": "Cardoso",
+        "adress": "rua sao cosme, 80\nBloco 31, apto 23",
+        "emailAdress": "michele.cardosoqa@gmail.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix"
+        ],
+        "selectCountries": "Austrália",
+        "selectYears": "",
+        "selectMonths": "",
+        "pwd": ""
+    },
+    {
+        "firstName": "Mauricio",
+        "lastName": "Souza",
+        "adress": "rua teste monica, 80",
+        "emailAdress": "teste222a@gmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix"
+        ],
+        "selectCountries": "Austrália",
+        "selectYears": "",
+        "selectMonths": "",
+        "pwd": ""
+    }
+]
