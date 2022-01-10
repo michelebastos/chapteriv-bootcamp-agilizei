@@ -26,10 +26,7 @@ jobs:
     - run: npm run 
       continue-on-error: true
       
-    - run: npm run report:merge
-    
-    - run: npm run report:mocha
-    
+     
 #   GiiHub Pages -> publicar relatório     
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.2.1
